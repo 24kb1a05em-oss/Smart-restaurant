@@ -26,7 +26,6 @@ const menu = [
   { id: 21, name: "Chocolate Cake", category: "Desserts", price: 100, image: "photo-1578985545062-69928b1d9587" },
   { id: 22, name: "Vanilla Ice Cream", category: "Desserts", price: 80, image: "photo-1560008581-09826d1de69e" },
   { id: 23, name: "Chocolate Brownie", category: "Desserts", price: 120, image: "photo-1606313564200-e75d5e30476c" },
-  
   { id: 24, name: "Cheesecake", category: "Desserts", price: 160, image: "photo-1533134242443-d4fd215305ad" },
   { id: 25, name: "Cold Coffee", category: "Drinks", price: 100, image: "photo-1461023058943-07fcbe16d735" },
   { id: 26, name: "Fresh Lime Soda", category: "Drinks", price: 60, image: "photo-1544145945-f90425340c7e", tag: "Refreshing" },
