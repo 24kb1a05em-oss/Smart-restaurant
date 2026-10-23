@@ -26,15 +26,14 @@ const menu = [
   { id: 21, name: "Chocolate Cake", category: "Desserts", price: 100, image: "photo-1578985545062-69928b1d9587" },
   { id: 22, name: "Vanilla Ice Cream", category: "Desserts", price: 80, image: "photo-1560008581-09826d1de69e" },
   { id: 23, name: "Chocolate Brownie", category: "Desserts", price: 120, image: "photo-1606313564200-e75d5e30476c" },
-  { id: 24, name: "Pancakes", category: "Desserts", price: 150, image: "photo-1528207776546-365bb710ee93" },
-  { id: 25, name: "Gulab Jamun", category: "Desserts", price: 90, image: "photo-1666190092159-3b2c4a6c7d42" },
-  { id: 26, name: "Cheesecake", category: "Desserts", price: 160, image: "photo-1533134242443-d4fd215305ad" },
-  { id: 27, name: "Cold Coffee", category: "Drinks", price: 100, image: "photo-1461023058943-07fcbe16d735" },
-  { id: 28, name: "Fresh Lime Soda", category: "Drinks", price: 60, image: "photo-1544145945-f90425340c7e", tag: "Refreshing" },
-  { id: 29, name: "Orange Juice", category: "Drinks", price: 90, image: "photo-1613478223719-2ab802602423" },
-  { id: 30, name: "Chocolate Milkshake", category: "Drinks", price: 130, image: "photo-1572490122747-3968b75cc699" },
-  { id: 31, name: "Mango Smoothie", category: "Drinks", price: 140, image: "photo-1505252585461-04db1eb84625" },
-  { id: 32, name: "Iced Lemon Tea", category: "Drinks", price: 75, image: "photo-1556679343-c7306c1976bc" },
+  
+  { id: 24, name: "Cheesecake", category: "Desserts", price: 160, image: "photo-1533134242443-d4fd215305ad" },
+  { id: 25, name: "Cold Coffee", category: "Drinks", price: 100, image: "photo-1461023058943-07fcbe16d735" },
+  { id: 26, name: "Fresh Lime Soda", category: "Drinks", price: 60, image: "photo-1544145945-f90425340c7e", tag: "Refreshing" },
+  { id: 27, name: "Orange Juice", category: "Drinks", price: 90, image: "photo-1613478223719-2ab802602423" },
+  { id: 28, name: "Chocolate Milkshake", category: "Drinks", price: 130, image: "photo-1572490122747-3968b75cc699" },
+  { id: 29, name: "Mango Smoothie", category: "Drinks", price: 140, image: "photo-1505252585461-04db1eb84625" },
+  { id: 30, name: "Iced Lemon Tea", category: "Drinks", price: 75, image: "photo-1556679343-c7306c1976bc" },
 ];
 
 const categories = ["All", "Starters", "Main Course", "Desserts", "Drinks"];
